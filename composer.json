@@ -1,0 +1,23 @@
+{
+  "name": "aedart/license",
+  "description": "Contains various license files for different projects / packages. Unless you are working with/on Aedart projects, this package is very useless for you!",
+  "keywords": [
+    "license"
+  ],
+  "homepage": "https://bitbucket.org/aedart/license",
+  "license": "BSD-3-Clause",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Alin Eugen Deac",
+      "email": "aedart@gmail.com"
+    }
+  ],
+  "require": {
+
+  },
+  "require-dev": {
+
+  },
+  "minimum-stability": "stable"
+}
