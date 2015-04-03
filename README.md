@@ -28,4 +28,6 @@ TODO...
 
 ## License ##
 
+TODO - What is this package actually released under?!
+
 [BSD-3-Clause](http://spdx.org/licenses/BSD-3-Clause), Read the LICENSE file included in this package
