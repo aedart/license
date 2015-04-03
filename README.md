@@ -29,3 +29,4 @@ Use the [License File Manager]( https://bitbucket.org/aedart/license-file-manage
 ## License ##
 
 [BSD-3-Clause](http://spdx.org/licenses/BSD-3-Clause), Read the LICENSE file included in this package
+
