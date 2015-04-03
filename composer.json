@@ -14,10 +14,10 @@
     }
   ],
   "require": {
-
+    "php": ">=5.4.0"
   },
-  "require-dev": {
-
+  "suggest": {
+    "aedart/license-file-manager": "Utility for helping to manage your package's license file"
   },
   "minimum-stability": "stable"
 }
