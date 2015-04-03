@@ -1,4 +1,4 @@
-## License ##
+## License (Package) ##
 
 Contains various license files for different projects / packages. __Unless you are working with/on Aedart projects, this package is very useless for you!__
 
