@@ -14,7 +14,7 @@
     }
   ],
   "require": {
-    "php": ">=5.4.0"
+    "php": ">=5.5.9"
   },
   "suggest": {
     "aedart/license-file-manager": "Utility for helping to manage your package's license file"
