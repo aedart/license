@@ -1,4 +1,4 @@
-## License (Package) ##
+## License ##
 
 Contains various license files for different projects / packages. __Unless you are working with/on Aedart projects, this package is very useless for you!__
 
@@ -6,11 +6,11 @@ Official website (https://bitbucket.org/aedart/license)
 
 ## Contents ##
 
-[TOC]
+{:toc}
 
 ## When to use this ##
 
-If you are working with me one or several of my projects, then you can use this “license repository” in order to fetch the appropriate license file. Please use the [License File Manager]( https://bitbucket.org/aedart/license-file-manager) package, to fetch the desired license into your project.
+If you are working with me one or several of my projects, then you can use this “license repository” in order to fetch the appropriate license file. Please use the [License File Manager](https://github.com/aedart/license-file-manager) package, to fetch the desired license into your project.
 
 ## How to install ##
 
@@ -24,7 +24,7 @@ This package uses [composer](https://getcomposer.org/). If you do not know what 
 
 ## Quick start ##
 
-Use the [License File Manager]( https://bitbucket.org/aedart/license-file-manager)
+Use the [License File Manager](https://github.com/aedart/license-file-manager)
 
 ## License ##
 
